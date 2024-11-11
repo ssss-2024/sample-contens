@@ -2,7 +2,7 @@
 
 + URLをゲット
   + ファイル名をクリックする
-  + Rawの隣にあるマーク(2つ重なった□のマーク)をクリック
+  + Rawを右クリックで「リンクのアドレスをコピー」
   + URLがコピーされているので適当な場所に貼り付けして書き換え
     + 書換前
     + https://*github.com*/ssss-2024/sample-contens/*raw/refs/heads*/main/color_grid.ktx
